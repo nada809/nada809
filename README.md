@@ -3,10 +3,8 @@
 I'm nada mekki an experienced devops engineer. I'm responsible of automating the development process using CI CD and I'm  also in charge of ensuring the availability 
 and scalability of the software.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about k8s
+- 💬 Ask me about k8s, aws
 - 📫 You can reach me at nadamekki3@gmail.com
 - ⚡ Fun fact: debugger, computer geek, constant learner
 
