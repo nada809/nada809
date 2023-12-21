@@ -4,7 +4,7 @@ I'm nada mekki an experienced devops engineer. I'm responsible of automating the
 and scalability of the software.
 
 - 🌱 I’m currently learning golang
-- 💬 Ask me about k8s, aws
+- 💬 Ask me about k8s, aws, argoCD
 - 📫 You can reach me at nadamekki3@gmail.com
 - ⚡ Fun fact: debugger, computer geek, constant learner
 
